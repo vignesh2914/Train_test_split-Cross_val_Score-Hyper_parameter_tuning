@@ -1,5 +1,6 @@
 # Basics of ML Project Process
 
-- Train Test Split
-- Cross Val score
+- Train Test Split - Updated
+- Cross Val score - Updated
+- OneVsRest Logistic Regretion - Updated
 - Hyper parameter Tuning
